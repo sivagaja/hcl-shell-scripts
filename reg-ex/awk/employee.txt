@@ -1,7 +1,7 @@
 ram manager it 25000
-raj clerk account 14000
-rooby manager it 25000
-ramesh clerk account 14000
-kumar  manager it 25000
-raju clerk account 14000
+raj  qa it  14000
+sam manager it  25000
+jak clerk it 14000
+kan  manager it  25000
+raju clerk it 14000
 
